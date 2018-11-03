@@ -1,0 +1,3 @@
+libcmt.lib
+uafxcw.lib
+nafxcw.lib
